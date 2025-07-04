@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ishaq-shaikh.github.io/bmw-repo",
+  "homepage": "https://github.com/Ishaq-Shaikh/BMW-Responsive-repo.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
